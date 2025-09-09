@@ -1,7 +1,7 @@
-#### Hi 👋, I'm Syauqi. 
-##### Saya Dosen Teknik Informatika.
+#### Hi 👋, I'm Rifqi Azhar Raditya. 
+##### Saya Mahasiswa Teknik Informatika UIN Malang.
 
-💻Saat ini saya sedang mengajar pemrograman mobile:
+💻Saat ini saya sedang belajar pemrograman mobile:
 
 | No  | Tgl  | Praktikum ke  | Topik  | Modul | Template Laporan |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
